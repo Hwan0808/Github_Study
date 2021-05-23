@@ -4,3 +4,6 @@ def add(a,b):
 # 빼기 함수
 def sub(a,b):
         return a-b
+# 나누기 함수
+def div (a,b)
+        return a/b
