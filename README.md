@@ -1,4 +1,4 @@
-# Practice
+# Github_Study
 
-깃허브 연습
+<pre><code>{code}</code></pre>
 
