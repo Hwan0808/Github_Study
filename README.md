@@ -14,16 +14,19 @@
 
 * 자료 올리기
 <pre><code>git push : 로컬 레포지토리의 내용을 리모트 레포지토리에 보낸다.</code></pre>
+
 * 파일 가져오기
 <pre><code>git pull : 리모트 레포지토리의 내용을 로컬 레포지토리로 가져온다.</code></pre>
+
 * 다른사람의 파일을 내 레포지토리로 가져오기
 <pre><code>git clone [프로젝트의 GitHub 상 주소] : GitHub에 있는 프로젝트를 내 컴퓨터로 가져온다.</code></pre>
+
 * 로그 관련 명령어
-<pre><code>git log : 커밋 히스토리를 출력/code></pre>
-<pre><code>git log --pretty=oneline : --pretty 옵션을 사용하면 커밋 히스토리를 다양한 방식으로 출력할 수 있습니다./code></pre>
-<pre><code>git show [커밋 아이디] : 특정 커밋에서 어떤 변경사항이 있었는지 확인한다./code></pre>
-<pre><code>git commit --amend : 최신 커밋을 다시 수정해서 새로운 커밋으로 만든다./code></pre>
-<pre><code>git config alias.[별명] [커맨드] : 길이가 긴 커맨드에 별명을 붙여서 이후로 별명으로 해당 커맨드를 실행할 수 있도록 설정한다./code></pre>
-<pre><code>git diff [커밋 A의 아이디] [커밋 B의 아이디] : 두 커밋 간의 차이 비교한다./code></pre>
+<pre><code>git log : 커밋 히스토리를 출력</code></pre>
+<pre><code>git log --pretty=oneline : --pretty 옵션을 사용하면 커밋 히스토리를 다양한 방식으로 출력할 수 있습니다.</code></pre>
+<pre><code>git show [커밋 아이디] : 특정 커밋에서 어떤 변경사항이 있었는지 확인한다.</code></pre>
+<pre><code>git commit --amend : 최신 커밋을 다시 수정해서 새로운 커밋으로 만든다.</code></pre>
+<pre><code>git config alias.[별명] [커맨드] : 길이가 긴 커맨드에 별명을 붙여서 이후로 별명으로 해당 커맨드를 실행할 수 있도록 설정한다.</code></pre>
+<pre><code>git diff [커밋 A의 아이디] [커밋 B의 아이디] : 두 커밋 간의 차이 비교한다.</code></pre>
 
 * 출처 link : <https://github.com/yechan-9208>
