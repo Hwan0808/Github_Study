@@ -29,4 +29,4 @@
 <pre><code>git config alias.[별명] [커맨드] : 길이가 긴 커맨드에 별명을 붙여서 이후로 별명으로 해당 커맨드를 실행할 수 있도록 설정한다.</code></pre>
 <pre><code>git diff [커밋 A의 아이디] [커밋 B의 아이디] : 두 커밋 간의 차이 비교한다.</code></pre>
 
-* 출처 link : <https://github.com/yechan-9208>
+link : <https://github.com/yechan-9208>
