@@ -2,7 +2,7 @@
 
 ## 깃허브 초기 설정 명령어 (Command)
 
-<pre><code>git init : 현재 디렉토리를 Git이 관리하는 프로젝트 디렉토리로 설정하고 그 안에 레포지토리(.git 디렉토리) 생성한다.</code></pre>
+<pre><code>git init : 현재 디렉토리를 Git이 관리하는 프로젝트 디렉토리로 설정하고 레포지토리를 생성한다.</code></pre>
 <pre><code>git config user.name '이름' : 현재 사용자의 아이디를 '이름'으로 설정한다.</code></pre>
 <pre><code>git config user.email '이메일' : 현재 사용자의 이메일 주소를 '이메일'로 설정한다.</code></pre>
 
@@ -27,5 +27,5 @@
 <pre><code>git log --pretty=oneline : --pretty 옵션을 사용하면 커밋 히스토리를 다양한 방식으로 출력할 수 있습니다.</code></pre>
 <pre><code>git show [커밋 아이디] : 특정 커밋에서 어떤 변경사항이 있었는지 확인한다.</code></pre>
 <pre><code>git commit --amend : 최신 커밋을 다시 수정해서 새로운 커밋으로 만든다.</code></pre>
-<pre><code>git config alias.[별명] [커맨드] : 길이가 긴 커맨드에 별명을 붙여서 이후로 별명으로 해당 커맨드를 실행할 수 있도록 설정한다.</code></pre>
+<pre><code>git config alias.[별명] [커맨드] : 별명으로 해당 커맨드를 실행할 수 있도록 설정한다.</code></pre>
 <pre><code>git diff [커밋 A의 아이디] [커밋 B의 아이디] : 두 커밋 간의 차이 비교한다.</code></pre>
