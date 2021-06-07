@@ -1,6 +1,6 @@
 # Github_Study
 
-## 깃허브 초기 설정 명령어 (Command)
+## 깃허브 명령어 (Command)
 
 <pre><code>git init : 현재 디렉토리를 Git이 관리하는 프로젝트 디렉토리로 설정하고 레포지토리를 생성한다.</code></pre>
 <pre><code>git config user.name '이름' : 현재 사용자의 아이디를 '이름'으로 설정한다.</code></pre>
